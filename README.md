@@ -11,7 +11,7 @@ I'm Wasit Ali and this is my 6th project on HTML and CSS in my [web dev bootcamp
 ## 🖥 Preview
 `note:` please make sure the preview screen is `1920 x 1080` and the site is not responsive as of now.
 
-[Live Preview](https://fastidious-travesseiro-828363.netlify.app/)
+[Live Preview](https://flourishing-cupcake-cd4f3a.netlify.app/)
 
 ##  👀 What I have learned in this project?
 - More about flex-box for elements and handle them.
