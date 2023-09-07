@@ -10,7 +10,7 @@ I'm Wasit Ali and this is my 6th project on HTML and CSS.
 ![](./photos/2022-10-14-12-18-29.png)
 `note:` please make sure the preview screen is `1920 x 1080` and the site is not responsive as of now.
 
-🚀 [Live Preview](https://flourishing-cupcake-cd4f3a.netlify.app/)
+🚀 [Live Preview](https://live-class-project-06-mauve.vercel.app/)
 
 ## 🛠️ What I have learned in this project?
 
